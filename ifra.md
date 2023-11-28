@@ -16,7 +16,7 @@ What i learned from this course, the git is used to track the history of the pro
 
 ***This is the workflow of github that i learned after going through the course*** 
 
-## :cry: NEW FOR ME
+##  NEW FOR ME
 ### Add New Reository: 
 
 first go to create the repository and enter a name for your repository. you can optionally, add a description and choose a repository visibility. Select Initialize this repository with a README file and click Create repository.
@@ -38,7 +38,7 @@ After commit you can push these changes to the remote repository and see these o
 
 A new concept, you can get a rough copy of anyone repo's using forking and make changes to it. after forking you can see it on your profile. 
 
-## :( CONFUSIONS
+## :cry: CONFUSIONS
 
 * Still confuse about PR (pull request). 
 * Need guidance to explore more about github community
