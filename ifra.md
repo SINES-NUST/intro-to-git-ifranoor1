@@ -17,3 +17,29 @@ What i learned from this course, the git is used to track the history of the pro
 ***This is the workflow of github that i learned after going through the course*** 
 
 ## :cry: NEW FOR ME
+### Add New Reository: 
+
+first go to create the repository and enter a name for your repository. you can optionally, add a description and choose a repository visibility. Select Initialize this repository with a README file and click Create repository.
+
+### Create Branches
+
+when you start the project it is the main or master branch. If you work in a team you have to work on a multiple things simutaneously so every team made their branch and made changes to their own branch and after this they can merge their branches.
+
+### Add and Commit Changes
+
+This is the new thing i learn, we can easily use command line to ad changes when they are ready to add you can commit it.
+
+### Push
+
+After commit you can push these changes to the remote repository and see these on github website.
+
+
+### Forking
+
+A new concept, you can get a rough copy of anyone repo's using forking and make changes to it. after forking you can see it on your profile. 
+
+## :( CONFUSIONS
+
+* Still confuse about PR (pull request). 
+* Need guidance to explore more about github community
+* Facing some issues in cloning
